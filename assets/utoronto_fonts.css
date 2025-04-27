@@ -6,12 +6,12 @@ https://github.com/yihui/xaringan/blob/master/inst/rmarkdown/templates/xaringan/
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 
-body { 
-  font-family: 'Roboto', Arial, sans-serif;
-}
+/* body { 
+  font-family: 'Century Gothic', sans-serif;
+} */
 
 h1, h2, h3 {
-  font-family: 'Roboto Condensed', Century, sans-serif;
+  /* font-family: 'Century Gothic', sans-serif; */
   font-weight: normal;
 }
 
